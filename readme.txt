@@ -1,0 +1,8 @@
+## Hey 👋, This is Emmanuel Rojas 
+[![Gmail Badge](https://img.shields.io/badge/-emmanuel.rojasssv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emmanuel.rojasssv@gmail.com)](mailto:emmanuel.rojasssv@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/emmanuel-rojas-vargas/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuel-rojas-vargas//)](https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuel-rojas-vargas//) [![Github Badge](https://img.shields.io/badge/-MannyR321-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MannyR321/)](https://www.github.com/MannyR321/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=MannyR321/)](MannyR321/) <p align='left'>my name is Emmanuel, i live in Costa Rica currently developing my skills in SQL, Python, Tableu and Power BI i love data storytelling and seeing the process of  changing a raw data base into a clean dashboard seeing every statistic and measurement being exact </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/17iFTYZbKII_WmvOXmwVeRvGefrDtmrblq0sQCkHBfAs/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=MannyR321 alt=MannyR321 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MannyR321&show_icons=true&include_all_commits=true)](https://github.com/MannyR321/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannyR321&layout=compact)](https://github.com/MannyR321/github-readme-stats)
